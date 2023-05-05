@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	UHRR_R1_001	/home/ksenia/snakemake-tutorial/fastqc_raw/UHRR_R1_001_fastqc.zip
+FastQC	all_sections	UHRR_R2_001	/home/ksenia/snakemake-tutorial/fastqc_raw/UHRR_R2_001_fastqc.zip
+FastQC	all_sections	R2_001	/home/ksenia/snakemake-tutorial/fastqc_raw/R2_001_fastqc.zip
+FastQC	all_sections	R1_001	/home/ksenia/snakemake-tutorial/fastqc_raw/R1_001_fastqc.zip
